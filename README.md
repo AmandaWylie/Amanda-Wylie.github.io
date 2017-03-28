@@ -2,7 +2,7 @@
 
 ## Some samples of my code:
 
-- [MadLibs] link to program
+- [Monster Farm] link to program
 - [Calculator]
 - [Adventure Game]
 
