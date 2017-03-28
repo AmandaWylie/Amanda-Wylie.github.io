@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+# Amanda's programing work
 
-You can use the [editor on GitHub](https://github.com/AmandaWylie/Amanda-Wylie.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Some samples of my code:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [MadLibs] link to program
+- [Calculator]
+- [Adventure Game]
+
 
 ### Markdown
 
